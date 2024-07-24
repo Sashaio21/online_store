@@ -1,0 +1,58 @@
+.basketBlock {
+    padding-top: 5px;
+    width: 900px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 7px;
+    display: flex;
+    padding: 5px;
+}
+
+
+.itemsInCart {
+    width: 60%;
+    flex-direction: column;
+    margin: 2px;
+    border-radius: 9px;
+}
+
+.infoBasket {
+    background-color: rgba(198, 198, 198, 0.332);
+    flex-direction: column;
+    margin: 2px;
+    width: 40%;
+    border-radius: 9px;
+    padding: 7px;
+}
+
+.buttonBuy {
+    width: 100%;
+    height: 35px;
+    background-color: #edaa17ca;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: center;
+    margin-top: 8px;
+    justify-self: end;
+}
+
+.titleBasket {
+    font-size: 30px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.productsBasketList {
+    padding: 2%;
+}
+
+.rowAlign {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}

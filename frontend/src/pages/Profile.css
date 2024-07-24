@@ -1,0 +1,35 @@
+.mainBlockProfile {
+    padding-top: 5px;
+    width: 700px;
+    height: 300px;
+    background-color: rgba(198, 198, 198, 0.332);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+.profileData {
+    flex-direction: row;
+    float: right;
+    margin-top: 25px;
+    margin-right: 200px;
+}
+
+
+.buttonEditProfile {
+    width: 180px;
+    height: 35px;
+    background-color: #edaa17ca;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: center;
+    margin-top: 8px;
+}
+
+.imageNoavatarForProfile {
+    margin-left: 5px;
+    margin-top: 0px;
+}

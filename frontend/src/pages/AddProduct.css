@@ -1,0 +1,87 @@
+.mainBlockForAddProduct {
+    padding-top: 16px;
+    width: 750px;
+    height: 550px;
+    background-color: rgba(198, 198, 198, 0.332);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 7px; 
+    flex-direction: column;
+}
+
+.imgStyle {
+    width: 300px;
+    height: 300px;
+    margin-left: 33px;
+}
+
+
+.ButtonAddPhoto {
+    width: 280px;
+    height: 35px;
+    background-color: #edaa17ca;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: center;
+    margin-top: 8px;
+    margin-left: 33px;
+}
+
+.manipulationWithProduct{
+    display: flex;
+    flex-direction: row;
+}
+
+.buttonAdd{
+    width: 170px;
+    height: 30px;
+    background-color: #edaa17ca;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: center;
+    margin-top: 8px;
+    margin-left: 33px;
+}
+
+.buttonCancel {
+    width: 170px;
+    height: 30px;
+    background-color: #d1d1d1ca;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: center;
+    margin-top: 8px;
+    margin-left: 33px;
+}
+
+.inputsAddProduct {
+    display: flex;
+    margin-left: 33px;
+    flex-direction: column;
+}
+
+.titleProduct {
+    margin-top: 8px;
+    width: 684px;
+    font-size: 24px;
+}
+
+.descriptionProduct {
+    margin-top: 8px;
+    width: 684px;
+    height: 200px;
+    resize: none;
+}
+
+.price {
+    margin-top: 8px;
+    width: 75px;
+    font-size: px;
+}

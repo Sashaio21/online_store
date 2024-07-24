@@ -1,0 +1,36 @@
+.OneProductAdmin{
+    width: 240px;
+    /* height: 375px; */
+    background-color: #e3e3e3ca;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.imageForOneProductsAdmin {
+    width: 240px;
+    border-radius: 7px;
+}
+
+.dataProductAdmin{
+    margin-left: 8px;
+}
+
+
+.buttonBasketAdmin{
+    width: 100px;
+    height: 30px;
+    background-color: #edaa17ca;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: flex-end;
+    margin-left: 7px;
+    margin-top: 7px;
+    
+}
+
+.blockWithButton {
+    display: flex;
+    flex-direction: row;
+}

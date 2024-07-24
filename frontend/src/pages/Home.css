@@ -1,0 +1,69 @@
+.GlobalBox {
+  margin-left: 303;
+}
+
+.Header {
+  width: 100%;
+  height: 60px;
+  background-color: #edaa17ca;
+  padding-top: 7px;
+}
+
+.usersImage {
+  align-self: center;
+  float: right;
+
+}
+
+.ListProducts {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 100%;
+  margin-left: 22%;
+}
+
+.OneProduct {
+  width: 240px;
+  /* height: 375px; */
+  background-color: #e3e3e3ca;
+  margin: 10px;
+  border-radius: 7px;
+}
+
+.imageForOneProducts {
+  width: 240px;
+  border-radius: 7px;
+}
+
+.Footer {
+  width: 100%;
+  height: 60px;
+  background-color: #edaa17ca;
+  position: absolute;
+  bottom: 0px;
+} 
+
+.buttonBasket {
+  width: 150px;
+  height: 35px;
+  background-color: #edaa17ca;
+  margin-bottom: 8px;
+  border-radius: 3px;
+  text-align: center;
+  padding-top: 5px;
+  align-self: flex-end;
+}
+
+.dataProduct {
+  margin-left: 8px;
+}
+
+.descriptionText {
+  font-size: 10px;
+}
+
+.inputSearch {
+  align-items: end;
+}
